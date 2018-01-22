@@ -1,0 +1,12 @@
+HTTrack3.43-4+htsswf+htsjava launched on Fri, 11 Aug 2017 00:41:10 at http://november-personal-portfolio.bitballoon.com/video%20bg.html# +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2008], %s -->" -%l "en, en, *" http://november-personal-portfolio.bitballoon.com/video%20bg.html# -O1 "C:\My Web Sites\my web example" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:43:00	Error: 	"Not Found" (404) at link d33wubrfki0l68.cloudfront.net/bundles/owl.video.play.png (from d33wubrfki0l68.cloudfront.net/bundles/b9b4449295a5f34e6c9af0801911ed87e3c204f2.css)
+
+HTTrack Website Copier/3.43-4 mirror complete in 1 minutes 50 seconds : 23 links scanned, 21 files written (3153312 bytes overall) [2690611 bytes received at 24460 bytes/sec], 600684 bytes transfered using HTTP compression in 7 files, ratio 21%, 2.0 requests per connection
+(1 errors, 0 warnings, 0 messages)
